@@ -1,0 +1,54 @@
+input[type="button"],input[type="submit"]
+{
+	font-family: cosmic sans ms;
+	font-size: 20px;
+	width: 200px;
+	height: 36px;
+	background-color: dodgerblue;
+	color: WHITE;
+	border-color: darkblue;
+}
+
+input[type="password"],input[type="text"]
+{
+	font-family: cosmic sans ms;
+	font-size: 20px;
+	width: 300px;
+	height: 30px;
+}
+
+textarea
+{
+	font-family: cosmic sans ms;
+	font-size: 20px;
+	width: 300px;
+	height: 70px;
+}
+select
+{
+	font-family: cosmic sans ms;
+	font-size: 20px;
+	width: 300px;
+	height: 30px;
+}
+table
+{
+	font-family: cosmic sans ms;
+	font-size: 20px;
+}
+legend
+{
+	font-family: cosmic sans ms;
+	color: black;
+}
+
+
+body
+{
+	
+}
+
+.class123
+{
+	resize: none;
+}
